@@ -1,3 +1,4 @@
 # NAME: Myself
 payload:
+    - DOMAIN-SUFFIX,quge.org
     - DOMAIN-SUFFIX,quge.net
